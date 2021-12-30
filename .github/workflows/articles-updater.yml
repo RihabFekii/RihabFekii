@@ -1,0 +1,19 @@
+name: Articles Updater
+on:
+  schedule:
+    # Runs at the end of every day
+    - cron: '10 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with my latest articles
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://rihab-feki.medium.com/, https://medium.com/feed/@rihab-feki" 
+          max_post_count: 6
+          template: "$newline - $randomEmoji(⚡️,💡,🔎,🔥,💫,🚀,📌,📍,📝) [$title]($url) "
+          commit_message: Updated latest blogs

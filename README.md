@@ -20,10 +20,11 @@
 🦋 I love nature, reading books, handcrafting, singing and playing guitar. 
 </p>
 
+## ⚡ Check my articles
 
+<!-- BLOG-POST-LIST:START -->
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RihabFekii&theme=city_lights) |
-| :---: |
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **RihabFekii/RihabFekii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
