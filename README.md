@@ -30,19 +30,43 @@
  - 📌 [Best introduction to Apache Spark](https://rihab-feki.medium.com/best-introduction-to-apache-spark-5f194268b6ab?source=rss-483e1585b091------2)
  - 📌 [AI Hack Tunisia 2019, Best Hackathon I have ever been.](https://rihab-feki.medium.com/ai-hack-tunisia-2019-best-hackathon-i-have-ever-been-8ac2b9a0669e?source=rss-483e1585b091------2)<!-- BLOG-POST-LIST:END -->
 
-<!--
-**RihabFekii/RihabFekii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## ⚡  Technologies I use 
 
-## Hi there 👋 and welcome to my GitHub profile!
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <table align="left">
+        <tr>
+            <td align="center" width="140" height="112.43">
+                <img src="./assests/icons/python.png" width="65px"/>
+                <br /> Python
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="./assests/icons/pupyter.png" width="65px"/>
+                <br /> Jupyter
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="./assests/icons/tensorflow.png" width="65px"/>
+                <br /> TensorFlow
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width="140" height="112.43">
+                <img src="./assests/icons/scikitlearn.png" width="65px"/>
+                <br /> Scikit Learn
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="./assests/icons/fastapi.png" width="65px"/>
+                <br /> FastAPI
+            </td>
+            <td align="center" width="140" height="112.43">
+                <img src="./assests/icons/docker.png" width="65px"/>
+                <br /> Docker
+            </td>
+        </tr>
+    </table>
+    <img src="svg/artificialintelligence.svg" height="225px"/>
+</div>
+
+<br>
