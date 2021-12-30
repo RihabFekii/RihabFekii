@@ -20,7 +20,7 @@
 🦋 I love nature, reading books, handcrafting, singing and playing guitar. 
 </p>
 
-## ⚡ Check my articles
+## ⚡ Latest articles
 
 <!-- BLOG-POST-LIST:START -->
 
