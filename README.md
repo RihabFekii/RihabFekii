@@ -1,13 +1,13 @@
 <h3 align="center">Hi there 👋 and welcome to my GitHub profile!</h3>
+
+![Rihab's GitHub cover](./assets/cover.png)
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RihabFekii
-&show_icons=true&theme=dark&count_private=true&include_all_commits=true&custom_title=Rihab's Stats">
+I am Rihab Feki, Machine Learning engineer and Evangelist @FIWARE
 </p>
 
-## I am Rihab Feki, Machine Learning engineer and Evangelist @FIWARE
 
-# I live to learn and learn to live 
-Learning is important for me and I seek to make a positiv impact through developing software 
+
 <!--
 **RihabFekii/RihabFekii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
