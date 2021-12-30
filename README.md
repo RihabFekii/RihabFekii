@@ -34,37 +34,36 @@
 <br>
 
 <div align="center">
-    <table align="left">
+    <table align="center">
         <tr>
             <td align="center" width="140" height="112.43">
-                <img src="./assests/icons/python.png" width="65px"/>
+                <img src="./assets/icons/python.png" width="65px"/>
                 <br /> Python
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./assests/icons/pupyter.png" width="65px"/>
+                <img src="./assets/icons/pupyter.png" width="65px"/>
                 <br /> Jupyter
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./assests/icons/tensorflow.png" width="65px"/>
+                <img src="./assets/icons/tensorflow.png" width="65px"/>
                 <br /> TensorFlow
             </td>
         </tr>
         <tr>
             <td align="center" width="140" height="112.43">
-                <img src="./assests/icons/scikitlearn.png" width="65px"/>
+                <img src="./assets/icons/scikitlearn.png" width="65px"/>
                 <br /> Scikit Learn
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./assests/icons/fastapi.png" width="65px"/>
+                <img src="./assets/icons/fastapi.png" width="65px"/>
                 <br /> FastAPI
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./assests/icons/docker.png" width="65px"/>
+                <img src="./assets/icons/docker.png" width="65px"/>
                 <br /> Docker
             </td>
         </tr>
     </table>
-    <img src="svg/artificialintelligence.svg" height="225px"/>
 </div>
 
 <br>
