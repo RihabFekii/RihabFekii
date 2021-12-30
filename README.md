@@ -1,12 +1,17 @@
-<h3 align="center">Hi there 👋 and welcome to my GitHub profile!</h3>
 
 ![Rihab's GitHub cover](./assets/cover.png)
 
 <p align="center">
-I am Rihab Feki, Machine Learning engineer and Evangelist @FIWARE
+  <a target="_blank" href="https://www.linkedin.com/in/rihabfeki/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://rihab-feki.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
+<p align="center">
+I am a Machine Learning engineer and Evangelist @FIWARE
+</p>
 
 <!--
 **RihabFekii/RihabFekii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
