@@ -14,6 +14,6 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://rihab-feki.medium.com/" 
-          max_post_count: 5
+          max_post_count: 4
           template: "$newline - $randomEmoji(⚡️,💡,🔎,🔥,💫,🚀,📌,📍,📝) [$title]($url) "
           commit_message: Updated latest blogs
