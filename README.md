@@ -23,8 +23,12 @@
 ## ⚡ Check my articles
 
 <!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
+ - 💫 [Deploying Machine Learning models with Streamlit, FastAPI and Docker](https://rihab-feki.medium.com/deploying-machine-learning-models-with-streamlit-fastapi-and-docker-bb16bbf8eb91?source=rss-483e1585b091------2)
+ - 🔥 [NGSI-LD: The standard interface to your IT solutions based on the Smart Data models](https://rihab-feki.medium.com/all-you-need-to-know-to-create-your-own-ngsi-ld-data-model-e234b7ca3d22?source=rss-483e1585b091------2)
+ - 📍 [All you need to know about Docker, Docker-Compose and Dockerfile.](https://rihab-feki.medium.com/all-you-need-to-know-about-docker-docker-compose-and-dockerfile-8f0439af507e?source=rss-483e1585b091------2)
+ - 🔎 [Converting JSON to CSV with Apache NiFi](https://rihab-feki.medium.com/converting-json-to-csv-with-apache-nifi-a9899ca3f24b?source=rss-483e1585b091------2)
+ - 📌 [Best introduction to Apache Spark](https://rihab-feki.medium.com/best-introduction-to-apache-spark-5f194268b6ab?source=rss-483e1585b091------2)
+ - 📌 [AI Hack Tunisia 2019, Best Hackathon I have ever been.](https://rihab-feki.medium.com/ai-hack-tunisia-2019-best-hackathon-i-have-ever-been-8ac2b9a0669e?source=rss-483e1585b091------2)<!-- BLOG-POST-LIST:END -->
 
 <!--
 **RihabFekii/RihabFekii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
