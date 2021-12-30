@@ -8,8 +8,18 @@
 
 
 <p align="center">
-I am a Machine Learning engineer and Evangelist @FIWARE
+🎯 I am passionate about Artificial Intelligence and developing software solutions leveraging it. 
 </p>
+
+<p align="center">
+💡 I beleive in learning by doing, so I write articles to share my  knowladge and make it simpler and easier. 
+</p>
+
+<p align="center">
+🦋 I love nature, reading books, handcrafting, singing and playing guitar. 
+</p>
+
+
 
 <!--
 **RihabFekii/RihabFekii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
