@@ -4,6 +4,7 @@
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/rihabfeki/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://rihab-feki.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/c/RihabFeki/"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -18,6 +19,8 @@
 <p align="center">
 🦋 I love nature, reading books, handcrafting, singing and playing guitar. 
 </p>
+
+
 
 
 
