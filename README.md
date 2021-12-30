@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-💡 I beleive in learning by doing, so I write articles to share my  knowladge and make it simpler and easier. 
+💡 I believe in learning by doing, so I write articles to share my knowledge and make it simpler and easier. 
 </p>
 
 <p align="center">
