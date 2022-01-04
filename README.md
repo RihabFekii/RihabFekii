@@ -9,7 +9,7 @@
 
 
 <p align="center">
-🎯 I am passionate about Artificial Intelligence and developing software solutions leveraging it. 
+🎯 I am passionate about Artificial Intelligence and developing software solutions leveraging it for real world impact. 
 </p>
 
 <p align="center">
