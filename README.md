@@ -6,7 +6,7 @@
 
 
 <p align="center">
-🎯 I am passionate about Artificial Intelligence and developing software solutions leveraging it for real-world impact. 
+🎯 I am passionate about AI, Data Engineering, and Business Intelligence leveraging it for real-world impact. 
 </p>
 
 <p align="center">
@@ -17,10 +17,11 @@
 ## ⚡ Latest articles
 
 <!-- BLOG-POST-LIST:START -->
- - 💫 [Imbalanced data: best practices](https://rihab-feki.medium.com/imbalanced-data-best-practices-f3b6d0999f38?source=rss-483e1585b091------2)
- - 🔥 [Deploying Machine Learning models with Streamlit, FastAPI and Docker](https://rihab-feki.medium.com/deploying-machine-learning-models-with-streamlit-fastapi-and-docker-bb16bbf8eb91?source=rss-483e1585b091------2)
- - 📍 [NGSI-LD: The standard interface to your IT solutions based on the Smart Data models](https://rihab-feki.medium.com/all-you-need-to-know-to-create-your-own-ngsi-ld-data-model-e234b7ca3d22?source=rss-483e1585b091------2)
- - 🔎 [All you need to know about Docker, Docker-Compose and Dockerfile.](https://rihab-feki.medium.com/all-you-need-to-know-about-docker-docker-compose-and-dockerfile-8f0439af507e?source=rss-483e1585b091------2)<!-- BLOG-POST-LIST:END -->
+ - 💫 [Azure End-to-End Data Engineering Project: Incremental data pipeline](https://rihab-feki.medium.com/azure-end-to-end-data-engineering-project-incremental-data-pipeline-part-1-ed3e55767513)
+ - 🔥 [Data Warehousing (DWH) best practices](https://rihab-feki.medium.com/data-warehousing-dwh-best-practices-ef9c61cf657d)
+ - 📍 [End to End Tableau Project: Sales Data Analysis](https://rihab-feki.medium.com/end-to-end-tableau-project-how-to-build-a-sales-performance-dashboard-a6aa464c0eab)
+ - 📊 [The Complete List of Tableau Charts — with example Dashboard project](https://rihab-feki.medium.com/part-iii-the-complete-list-of-tableau-charts-with-example-dashboard-1d64c1aa8e80)
+ - 🔎 [Advanced SQL: Window Functions, CTEs , Views & Indexes](https://rihab-feki.medium.com/advanced-sql-window-functions-ctes-views-indexes-3909381987ba)<!-- BLOG-POST-LIST:END -->
 
 
 ## ⚡  Technologies I use 
