@@ -36,24 +36,24 @@
                 <br /> Python
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./assets/icons/jupyter.png" width="65px"/>
-                <br /> Jupyter
+                <img src="./assets/icons/Microsoft_Azure_Logo.png" width="65px"/>
+                <br /> Microsoft Azure
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./assets/icons/tensorflow.png" width="65px"/>
-                <br /> TensorFlow
+                <img src="./assets/icons/Tableau-Logo.png" width="65px"/>
+                <br /> Tableau
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./assets/icons/scikitlearn.png" width="65px"/>
-                <br /> Scikit Learn
+                <img src="./assets/icons/pyspark.png" width="65px"/>
+                <br /> PySpark
             </td>
             <td align="center" width="140" height="112.43">
                 <img src="./assets/icons/fastapi.png" width="65px"/>
                 <br /> FastAPI
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./assets/icons/docker.png" width="65px"/>
-                <br /> Docker
+                <img src="./assets/icons/Databricks_Logo.png" width="65px"/>
+                <br /> Databricks
             </td>
         </tr>
     </table>
