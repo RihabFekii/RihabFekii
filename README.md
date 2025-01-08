@@ -36,11 +36,11 @@
                 <br /> Python
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./assets/icons/Microsoft_Azure_Logo.png" width="65px"/>
+                <img src="./assets/icons/azure.png" width="65px"/>
                 <br /> Microsoft Azure
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./assets/icons/Tableau-Logo.png" width="65px"/>
+                <img src="./assets/icons/tableau.jpg" width="65px"/>
                 <br /> Tableau
             </td>
             <td align="center" width="140" height="112.43">
@@ -52,7 +52,7 @@
                 <br /> FastAPI
             </td>
             <td align="center" width="140" height="112.43">
-                <img src="./assets/icons/Databricks_Logo.png" width="65px"/>
+                <img src="./assets/icons/databricks.jpg" width="65px"/>
                 <br /> Databricks
             </td>
         </tr>
